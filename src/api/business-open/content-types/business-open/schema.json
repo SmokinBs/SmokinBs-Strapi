@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "business_opens",
+  "info": {
+    "singularName": "business-open",
+    "pluralName": "business-opens",
+    "displayName": "BusinessOpen"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "isOpen": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    }
+  }
+}
